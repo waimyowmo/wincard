@@ -65,6 +65,7 @@ class MyApp extends StatelessWidget {
               ),
               Card(
                 margin: EdgeInsets.symmetric(vertical: 5, horizontal: 20),
+                //testing
                 //padding: EdgeInsets.symmetric(vertical: 20, horizontal: 10),
                 color: Colors.purple,
                 child: Padding(
